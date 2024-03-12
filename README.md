@@ -1,6 +1,5 @@
 # Codeshare
 
-<!-- PROJECT LOGO -->
 <br />
 <p align="center">
 
@@ -41,23 +40,16 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<!-- - Welcome to the Scribble Chat project! This project aims to create the classic online drawing and guessing game experience, offering a platform for friends, families, and communities to come together and enjoy some creative fun.<br/><br/> -->
+- CodeShare is an innovative platform designed to foster collaborative coding experiences. Whether you're working on a project with teammates, teaching programming concepts, or simply exploring code together, CodeShare provides a real-time, shared coding environment where users can seamlessly collaborate and communicate.<br/><br/>
 
-<!-- - **Login**<br/>
-  ![Scribble Chat](https://res.cloudinary.com/dl2rrnqxi/image/upload/v1707287660/Yash/Scribble_Login.png)<br/>
-- **Room**<br/>
-  ![Scribble Chat](https://res.cloudinary.com/dl2rrnqxi/image/upload/v1707287772/Yash/Scribble_Dash.png)<br/>
-- **Standings**<br/>
-  ![Scribble Chat](https://res.cloudinary.com/dl2rrnqxi/image/upload/v1707287834/Yash/Scribble_Standings.png)<br/> -->
 
 ### Features
-<!-- 
-- **Room Management:** Users can create their own game rooms with unique IDs, allowing for private matches among friends or public rooms for larger gatherings.<br/>
-- **Multiplayer Support:** Invite friends or join random rooms to play with multiple players from around the world.<br/>
-- **Drawing and Guessing:** Users can take turns drawing a word while others guess what it is in real-time.  <br />
-- **Real-Time Updates:** Experience seamless synchronization of drawing actions and guesses across all players, making for an engaging and immersive gaming experience.<br/>
-- **Flexible Drawing Tools:** Choose from a variety of drawing tools to unleash your creativity.<br/>
-- **Interactive Chat:** Communicate with fellow players through an integrated chat feature, adding another layer of interaction and excitement to the game.<br/> -->
+
+- **Real-time Collaboration:** Emphasize the real-time aspect of your platform, where multiple users can simultaneously edit and view the code.<br/>
+- **Code Saving and Persistence:** The code in the every room is saved when all of the users leave the room.<br/>
+- **Room Creation and Joining:** Users can join the room by giving their username and roomID. If entered roomID is currently existing then user will be assign that room but if that roomID is not exist a new room with that roomID will be created for that user. <br />
+- **Code Editor Features:** We have used CodeMirror Code Editor. In this Code Editor there is well defined structure for the well structured code. There is also syntax highlighting features. Different syntax highlighting for the different language. <br/>
+- **Database Integration:** We have created database in which we store username, roomID, Current code and Currently selected language in a perticular room.<br/>
 
 
 
@@ -136,6 +128,3 @@ Harshil Savaliya - [@Harshil Savaliya](https://www.linkedin.com/in/harshil-saval
 
 Project Link: [https://github.com/Harshil4442/Codeshare](https://github.com/Harshil4442/Codeshare)
 
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[product-screenshot]: images/screenshot.PNG
