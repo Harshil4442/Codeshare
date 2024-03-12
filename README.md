@@ -134,7 +134,7 @@ Contributions are what make the open source community such an amazing place to b
 
 Harshil Savaliya - [@Harshil Savaliya](https://www.linkedin.com/in/harshil-savaliya-3a7460223/) - harshilyogeshbhai886@gmail.com
 
-Project Link: [https://github.com/yr004-yash/Scribble_Chat](https://github.com/Harshil4442/Codeshare)
+Project Link: [https://github.com/Harshil4442/Codeshare](https://github.com/Harshil4442/Codeshare)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
